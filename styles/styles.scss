@@ -1,0 +1,23 @@
+@import 'normalize',
+'fonts',
+'mixins',
+'media',
+'variables',
+'utils',
+'globals';
+
+@import 'blocks/header',
+'blocks/about-us',
+'blocks/typography',
+'blocks/offers',
+'blocks/catalog-items',
+'blocks/card-item',
+'blocks/advantages',
+'blocks/feedback',
+'blocks/feedback-form',
+'blocks/footer',
+'blocks/modal',
+'blocks/catalog/catalog-header',
+'blocks/catalog/catalog-filter',
+'blocks/cart/cart-header',
+'blocks/cart/cart-main'
